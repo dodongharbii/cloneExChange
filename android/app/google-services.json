@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1095110271583",
+    "project_id": "test-project-ae138",
+    "storage_bucket": "test-project-ae138.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095110271583:android:9c659bb29d226bb3fc71ea",
+        "android_client_info": {
+          "package_name": "ex.change.powerrangers_exchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095110271583-lqa728jqg76jnl7a6mkqp5637ic00qr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL9qvRh0zusk0ECgRtt7FhrI-jJ1W-lfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095110271583-lqa728jqg76jnl7a6mkqp5637ic00qr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
